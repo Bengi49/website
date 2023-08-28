@@ -1,0 +1,87 @@
+header {
+	background: linear-gradient(to bottom left, #000066 0%, #6699ff 57%);
+	background-color: #000066;
+    text-align: center;
+    text-shadow: currentColor;
+    font-size: 20px;
+    border: solid 2px #3e4444;
+    margin-top: -1px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background: linear-gradient(to bottom, #444444 0%, #888888 57%);
+    transition-delay: 0.4;
+    border: solid 2px #3e4444;
+    border-radius: 0 0 5px 5px;
+}
+
+li {
+    float: left;
+    border-right: solid 1px #3e4444;
+    width: 250px;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #3e4444;
+}
+
+.login {
+    padding: 0px 80px 2px 80px;
+    position: absolute;
+    right: 80px;
+}
+
+.signup {
+	padding: 0px 81px 2px 82px;
+	position: absolute;
+	right: 80px;
+	top: 153px;
+}
+
+label {
+	font-family: georgia, sans-serif;
+	font-size: 1.5rem;
+	padding-right: 10px;
+	margin-left: 25px;
+	padding-bottom: 15px;
+	font-style: oblique;
+}
+
+body {
+	background-color: hsl(40, 94%, 50%, 0.55);
+	background: linear-gradient(#e75465, #2165e5);
+	background-repeat: no-repeat;
+	border: solid 2px #3e4444;
+	border-radius: 0 0 25px 25px;
+	margin: 0;
+	padding-bottom: 100%;
+}
+
+footer {
+    border: solid 2px black;
+    border-radius: 0 0 25px 25px;
+    display: flex;
+    position: relative;
+    bottom: 0%;
+    background: linear-gradient(to bottom left, #000066 0%, #6699ff 57%);
+    padding: 5px 0 5px 50px;
+}
+
+footer small{
+	position: relative;
+    font-style: italic;
+    font-family: monospace, sans-serif;
+    color: black;
+}
