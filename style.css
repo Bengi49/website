@@ -1,6 +1,6 @@
 header {
-	background: linear-gradient(to bottom left, #000066 0%, #6699ff 57%);
-	background-color: #000066;
+    background: linear-gradient(to bottom left, #000066 0%, #6699ff 57%);
+    background-color: #000066;
     text-align: center;
     text-shadow: currentColor;
     font-size: 20px;
@@ -44,156 +44,156 @@ li a:hover {
 }
 
 .signup {
-	padding: 0px 81px 2px 82px;
-	position: absolute;
-	right: 80px;
-	top: 153px;
+    padding: 0px 81px 2px 82px;
+    position: absolute;
+    right: 80px;
+    top: 153px;
 }
 
 body {
-	background-color: hsl(40, 94%, 50%, 0.55);
-	background: linear-gradient(#e75465, #2165e5);
-	border: solid 2px #3e4444;
-	border-radius: 0 0 25px 25px;
-	margin: 0;
+    background-color: hsl(40, 94%, 50%, 0.55);
+    background: linear-gradient(#e75465, #2165e5);
+    border: solid 2px #3e4444;
+    border-radius: 0 0 25px 25px;
+    margin: 0;
 }
 
 h2 {
-	border: solid 2px #3e4444;
-	border-radius: 0 0 25% 25%;
-	box-shadow: 
-	  inset 0 0 0.2em #0033cc,
-      0 0 0.2em #cc0066;
-	size: 20px;
-	color: black;
-	padding: 35px 150px 35px 10%;
-	margin: -2px 35% 5px 400px;
-	transform: translateX(15%);
-	position: relative;
-	font-size: 28px;
-	font-style: oblique;
-	font-family: "gill sans", sans-serif;
+    border: solid 2px #3e4444;
+    border-radius: 0 0 25% 25%;
+    box-shadow: 
+        inset 0 0 0.2em #0033cc,
+        0 0 0.2em #cc0066;
+    size: 20px;
+    color: black;
+    padding: 35px 150px 35px 10%;
+    margin: -2px 35% 5px 400px;
+    transform: translateX(15%);
+    position: relative;
+    font-size: 28px;
+    font-style: oblique;
+    font-family: "gill sans", sans-serif;
 }
 
 form {
-	padding: 10px 0 10px 10px;
-	margin-left: 50%;
-	transform: translateX(-50%);
+    padding: 10px 0 10px 10px;
+    margin-left: 50%;
+    transform: translateX(-50%);
 }
 
 #form {
-	border: solid 2px #3e4444;
-	border-radius: 25% 25% 25% 25%;
-	box-shadow: 
-	  inset 0 0 1em #0033cc,
-      0 0 2em #cc0066;
-	margin: 125px 0 50px 0px;
+    border: solid 2px #3e4444;
+    border-radius: 25% 25% 25% 25%;
+    box-shadow: 
+	inset 0 0 1em #0033cc,
+        0 0 2em #cc0066;
+    margin: 125px 0 50px 0px;
 }
 
 label {
-	font-family: georgia, sans-serif;
-	font-size: 1.5rem;
-	padding-right: 10px;
-	margin-left: 25px;
-	padding-bottom: 15px;
-	font-style: oblique;
+    font-family: georgia, sans-serif;
+    font-size: 1.5rem;
+    padding-right: 10px;
+    margin-left: 25px;
+    padding-bottom: 15px;
+    font-style: oblique;
 }
 
 select {
-	font-size: 0.9rem;
-	padding: 2px 5px;
+    font-size: 0.9rem;
+    padding: 2px 5px;
 }
 
 .boxpseudo {
-	margin-top: 10px;
-	margin-left: 74px;
-	padding: 10px 0 10px 8px;
-	border: solid 1px black;
-	border-radius: 5px;
-	position: relative;
+    margin-top: 10px;
+    margin-left: 74px;
+    padding: 10px 0 10px 8px;
+    border: solid 1px black;
+    border-radius: 5px;
+    position: relative;
 }
 
 .boxemail {
-	margin-top: 10px;
-	margin-left: 77px;
-	padding: 10px 50px 10px 8px;
-	border: solid 1px black;
-	border-radius: 5px;
-	position: relative;
+    margin-top: 10px;
+    margin-left: 77px;
+    padding: 10px 50px 10px 8px;
+    border: solid 1px black;
+    border-radius: 5px;
+    position: relative;
 }
 
 .boxpassword {
-	margin-top: 10px;
-	margin-left: 11px;
-	padding: 10px 50px 10px 8px;
-	border: solid 1px black;
-	border-radius: 5px;
-	position: relative;
+    margin-top: 10px;
+    margin-left: 11px;
+    padding: 10px 50px 10px 8px;
+    border: solid 1px black;
+    border-radius: 5px;
+    position: relative;
 }
 
 .boxconfirm {
-	margin-top: 10px;
-	margin-left: 6px;
-	padding: 10px 50px 10px 8px;
-	border: solid 1px black;
-	border-radius: 5px;
-	position: relative;
+    margin-top: 10px;
+    margin-left: 6px;
+    padding: 10px 50px 10px 8px;
+    border: solid 1px black;
+    border-radius: 5px;
+    position: relative;
 }
 
 .country {
-	display: block;
-	position: relative;
-	font-size: 15px;
-	padding-right: 50px;
-	margin-bottom: 45px;
-	margin-top: 10px;
-	margin-left: 80px;
-	border: solid 1px black;
-	border-radius: 5px 0 0 5px;
+    display: block;
+    position: relative;
+    font-size: 15px;
+    padding-right: 50px;
+    margin-bottom: 45px;
+    margin-top: 10px;
+    margin-left: 80px;
+    border: solid 1px black;
+    border-radius: 5px 0 0 5px;
 }
 
 .username {
-	margin-bottom: 45px;
+    margin-bottom: 45px;
     margin-top: 10px;
-	margin-left: 80px;
-	padding: 10px 50px 10px 8px;
-	border: solid 1px black;
-	border-radius: 5px;
-	position: relative;
+    margin-left: 80px;
+    padding: 10px 50px 10px 8px;
+    border: solid 1px black;
+    border-radius: 5px;
+    position: relative;
 }
 
 .birthday {
-	margin-bottom: 45px;
+    margin-bottom: 45px;
     margin-top: 10px;
-	margin-left: 80px;
-	padding: 10px 15px 10px 15px;
-	border: solid 1px black;
-	border-radius: 5px;
-	position: relative;
+    margin-left: 80px;
+    padding: 10px 15px 10px 15px;
+    border: solid 1px black;
+    border-radius: 5px;
+    position: relative;
 }
 
 .phone {
-	font-size: 15px;
-	font-style: normal;
-	font-family: Courier New, sans-serif;
-	letter-spacing: 0.2px;
-	margin-bottom: 45px;
+    font-size: 15px;
+    font-style: normal;
+    font-family: Courier New, sans-serif;
+    letter-spacing: 0.2px;
+    margin-bottom: 45px;
     margin-top: -30px;
-	margin-left: 80px;
-	padding: 10px 25px 10px 8px;
-	border: solid 1px black;
-	border-radius: 5px;
-	position: relative;
+    margin-left: 80px;
+    padding: 10px 25px 10px 8px;
+    border: solid 1px black;
+    border-radius: 5px;
+    position: relative;
 }
 
 .description {
-	margin: -30px 80px 45px 80px;
-	padding: 10px 60px 10px 8px;
-	border: solid 1px black;
-	position: relative;
-	font-size: 15px;
-	font-style: normal;
-	font-family: cursive;
+    margin: -30px 80px 45px 80px;
+    padding: 10px 60px 10px 8px;
+    border: solid 1px black;
+    position: relative;
+    font-size: 15px;
+    font-style: normal;
+    font-family: cursive;
 }
 
 .submit {
@@ -213,33 +213,33 @@ select {
 }
 
 .asterix1 {
-	display: block;
-	position: relative;
-	bottom: 25px;
-	left: 260px;
-	font-size: 15px;
-	font-style: italic;
+    display: block;
+    position: relative;
+    bottom: 25px;
+    left: 260px;
+    font-size: 15px;
+    font-style: italic;
 }
 
 .asterix2 {
-	display: block;
-	position: relative;
-	bottom: 25px;
-	left: 155px;
-	font-size: 15px;
-	font-style: italic;
+    display: block;
+    position: relative;
+    bottom: 25px;
+    left: 155px;
+    font-size: 15px;
+    font-style: italic;
 }
 
 textarea {
-	resize: none;
+    resize: none;
 }
 
 fieldset {
-	border: solid 1px #222222;
-	border-radius: 15px;
-	box-shadow: 
-	  inset 0 0 0.2em #4040a1,
-      0 0 0.3em #4040a1;
+    border: solid 1px #222222;
+    border-radius: 15px;
+    box-shadow: 
+        inset 0 0 0.2em #4040a1,
+        0 0 0.3em #4040a1;
 }
 
 footer {
@@ -254,19 +254,19 @@ footer {
 }
 
 footer small{
-	position: relative;
+    position: relative;
     font-style: italic;
     font-family: monospace, sans-serif;
     color: black;
 }
 
 legend {
-	font-size: 15px;
-	font-style: italic;
-	font-family: gill sans, sans-serif;
-	padding-bottom: 16px;
-	background: linear-gradient(to bottom left, #000066 0%, #6699ff 57%);
-	background-color: #000066;
+    font-size: 15px;
+    font-style: italic;
+    font-family: gill sans, sans-serif;
+    padding-bottom: 16px;
+    background: linear-gradient(to bottom left, #000066 0%, #6699ff 57%);
+    background-color: #000066;
     text-align: center;
     text-shadow: currentColor;
     font-size: 20px;
@@ -310,35 +310,35 @@ li a:hover {
 }
 
 .signup {
-	padding: 0px 81px 2px 82px;
-	position: absolute;
-	right: 80px;
-	top: 153px;
+    padding: 0px 81px 2px 82px;
+    position: absolute;
+    right: 80px;
+    top: 153px;
 }
 
 body {
-	background-color: hsl(40, 94%, 50%, 0.55);
-	background: linear-gradient(#e75465, #2165e5);
-	border: solid 2px #3e4444;
-	border-radius: 0 0 25px 25px;
-	margin: 0;
+    background-color: hsl(40, 94%, 50%, 0.55);
+    background: linear-gradient(#e75465, #2165e5);
+    border: solid 2px #3e4444;
+    border-radius: 0 0 25px 25px;
+    margin: 0;
 }
 
 h2 {
-	border: solid 2px #3e4444;
-	border-radius: 0 0 25% 25%;
-	box-shadow: 
-	  inset 0 0 0.2em #0033cc,
-      0 0 0.2em #cc0066;
-	size: 20px;
-	color: black;
-	padding: 35px 150px 35px 10%;
-	margin: -2px 35% 5px 400px;
-	transform: translateX(15%);
-	position: relative;
-	font-size: 28px;
-	font-style: oblique;
-	font-family: "gill sans", sans-serif;
+    border: solid 2px #3e4444;
+    border-radius: 0 0 25% 25%;
+    box-shadow: 
+	inset 0 0 0.2em #0033cc,
+        0 0 0.2em #cc0066;
+    size: 20px;
+    color: black;
+    padding: 35px 150px 35px 10%;
+    margin: -2px 35% 5px 400px;
+    transform: translateX(15%);
+    position: relative;
+    font-size: 28px;
+    font-style: oblique;
+    font-family: "gill sans", sans-serif;
 }
 
 form {
